@@ -10,7 +10,12 @@ class Program
 
     public void greetBlack()
     {
-        Console.WriteLine("hello black");
+        Console.WriteLine("hello everyone");
     }
 
+    
+    public void Main(string[] args)
+    {
+        greetBlack();
+    }
 } 
