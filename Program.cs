@@ -5,7 +5,7 @@ class Program
 
     public void greetWhite()
     {
-        Console.WriteLine("hello white");
+        Console.WriteLine("hello everyone");
     }
 
 } 
