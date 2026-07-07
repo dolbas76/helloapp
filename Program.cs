@@ -1,1 +1,11 @@
-﻿Console.WriteLine("Hello, World!");
+﻿
+
+class Program
+{
+
+    public void greetWhite()
+    {
+        Console.WriteLine("hello white");
+    }
+
+} 
